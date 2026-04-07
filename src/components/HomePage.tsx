@@ -19,7 +19,7 @@ export function HomePage() {
   const router = useRouter();
 
   const primaryUrl = "https://forms.gle/3wNJRPjrAwC3Ph119";
-  const secondaryUrl = "https://drive.google.com/file/d/1RSD0Ixx-B-WxD0V81hUQyPg3N92Rhzrp/view?usp=sharing";
+  const secondaryUrl = "https://drive.google.com/file/d/1wTZ0uc5ZmIZjYdfWXz_u1ujh0-89BgTo/view?usp=sharing";
 
   return (
     <main className="relative min-h-screen overflow-hidden bg-black text-white">
